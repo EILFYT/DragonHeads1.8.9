@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.neonfish.dragonheadmod.mixins",
+  "refmap": "mixins.notenoughupdates.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinTileEntitySkullRenderer"
+    ]
+}
